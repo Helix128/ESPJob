@@ -1,7 +1,7 @@
 # ESPJob 
 ## Job system library for ESP32
 
-Tiny a-la C# job runner for ESP32 (FreeRTOS wrapper). 
+Tiny (header-only) a-la C# job system for ESP32 (wraps FreeRTOS vTask functions). 
 Run tasks with optional callbacks, delays, core selection and priority control.
 Also comes with a few handy macros to simplify lambda and callback definitions.
 
