@@ -1,7 +1,7 @@
 # ESPJob 
 ## Job system library for ESP32
 
-Tiny [header-only](https://github.com/Helix128/ESPJob/blob/main/src/ESPJob.h) "a-la C#" job system for ESP32. 
+Tiny [header-only](https://github.com/Helix128/ESPJob/blob/main/src/ESPJob.h) parallel job system for ESP32. 
 Run tasks with optional callbacks, delays, core selection and priority control.
 Also comes with a few handy macros to simplify lambda and callback definitions.
 
